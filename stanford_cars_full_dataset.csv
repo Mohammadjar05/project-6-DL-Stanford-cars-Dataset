@@ -1,0 +1,197 @@
+class_id,class_name,manufacturer,model,year,origin_country,body_type,horsepower,engine,0_to_60_mph_sec,top_speed_mph,transmission,avg_price_usd
+1,AM General Hummer SUV 2000,AM General,Hummer,2000,USA,SUV,323,2.5L 4-Cylinder,6.1,132,Automatic,26296
+2,Acura RL Sedan 2012,Acura,RL,2012,Japan,Sedan,529,1.8L 8-Cylinder,6.0,142,Automatic,56395
+3,Acura TL Sedan 2012,Acura,TL,2012,Japan,Sedan,508,2.5L 12-Cylinder,5.9,185,Manual,48478
+4,Acura TL Type-S 2008,Acura,TL Type-S,2008,Japan,Other,392,3.0L 4-Cylinder,6.4,150,Manual,45851
+5,Acura TSX Sedan 2012,Acura,TSX,2012,Japan,Sedan,360,3.1L 6-Cylinder,4.8,164,Automatic,89118
+6,Acura Integra Type R 2001,Acura,Integra Type R,2001,Japan,Other,385,6.1L 6-Cylinder,6.3,174,Automatic,50695
+7,Acura ZDX Hatchback 2012,Acura,ZDX,2012,Japan,Hatchback,290,4.2L 4-Cylinder,5.2,180,Manual,117357
+8,Aston Martin V8 Vantage Convertible 2012,Aston Martin,V8 Vantage,2012,United Kingdom,Convertible,546,5.6L 10-Cylinder,3.7,200,Automatic,1135874
+9,Aston Martin V8 Vantage Coupe 2012,Aston Martin,V8 Vantage,2012,United Kingdom,Coupe,784,3.2L 8-Cylinder,3.5,236,Automatic,2081740
+10,Aston Martin Virage Convertible 2012,Aston Martin,Virage,2012,United Kingdom,Convertible,1186,4.4L 12-Cylinder,3.6,199,Dual-Clutch,1299786
+11,Aston Martin Virage Coupe 2012,Aston Martin,Virage,2012,United Kingdom,Coupe,750,4.7L 8-Cylinder,3.2,224,Dual-Clutch,865359
+12,Audi RS 4 Convertible 2008,Audi,RS 4,2008,Germany,Convertible,416,3.3L 8-Cylinder,5.1,142,Manual,52331
+13,Audi A5 Coupe 2012,Audi,A5,2012,Germany,Coupe,358,4.5L 6-Cylinder,6.7,160,Automatic,119341
+14,Audi TTS Coupe 2012,Audi,TTS,2012,Germany,Coupe,484,5.0L 10-Cylinder,5.2,155,Manual,63726
+15,Audi R8 Coupe 2012,Audi,R8,2012,Germany,Coupe,548,1.8L 8-Cylinder,5.4,148,Manual,97350
+16,Audi V8 Sedan 1994,Audi,V8,1994,Germany,Sedan,306,4.3L 6-Cylinder,6.1,190,Manual,65033
+17,Audi 100 Sedan 1994,Audi,100,1994,Germany,Sedan,445,4.7L 8-Cylinder,5.8,175,Automatic,106348
+18,Audi 100 Wagon 1994,Audi,100,1994,Germany,Wagon,524,2.8L 8-Cylinder,6.4,161,Automatic,79973
+19,Audi TT Hatchback 2011,Audi,TT,2011,Germany,Hatchback,482,6.1L 8-Cylinder,6.9,186,Manual,45425
+20,Audi S6 Sedan 2011,Audi,S6,2011,Germany,Sedan,509,2.1L 8-Cylinder,6.7,159,Automatic,58947
+21,Audi S5 Convertible 2012,Audi,S5,2012,Germany,Convertible,526,3.7L 8-Cylinder,6.8,178,Manual,114514
+22,Audi S5 Coupe 2012,Audi,S5,2012,Germany,Coupe,435,1.8L 10-Cylinder,5.1,155,Automatic,85306
+23,Audi S4 Sedan 2012,Audi,S4,2012,Germany,Sedan,285,5.9L 4-Cylinder,6.4,148,Manual,114822
+24,Audi S4 Sedan 2007,Audi,S4,2007,Germany,Sedan,385,5.9L 4-Cylinder,6.7,167,Automatic,114163
+25,Audi TT RS Coupe 2012,Audi,TT RS,2012,Germany,Coupe,409,3.5L 12-Cylinder,7.0,181,Manual,97296
+26,BMW ActiveHybrid 5 Sedan 2012,BMW,ActiveHybrid 5,2012,Germany,Sedan,481,1.5L 12-Cylinder,5.1,144,Manual,60860
+27,BMW 1 Series Convertible 2012,BMW,1 Series,2012,Germany,Convertible,367,2.5L 4-Cylinder,4.5,185,Automatic,73864
+28,BMW 1 Series Coupe 2012,BMW,1 Series,2012,Germany,Coupe,419,2.4L 8-Cylinder,5.8,157,Manual,54287
+29,BMW 3 Series Sedan 2012,BMW,3 Series,2012,Germany,Sedan,542,2.3L 8-Cylinder,5.1,170,Manual,106953
+30,BMW 3 Series Wagon 2012,BMW,3 Series,2012,Germany,Wagon,470,4.6L 12-Cylinder,5.6,169,Automatic,91438
+31,BMW 6 Series Convertible 2007,BMW,6 Series,2007,Germany,Convertible,300,2.6L 4-Cylinder,5.5,161,Automatic,52944
+32,BMW X5 SUV 2007,BMW,X5,2007,Germany,SUV,544,3.6L 8-Cylinder,4.9,151,Manual,106800
+33,BMW X6 SUV 2012,BMW,X6,2012,Germany,SUV,496,6.1L 8-Cylinder,4.7,181,Automatic,120132
+34,BMW M3 Coupe 2012,BMW,M3,2012,Germany,Coupe,335,5.7L 4-Cylinder,5.7,153,Manual,98269
+35,BMW M5 Sedan 2010,BMW,M5,2010,Germany,Sedan,444,2.8L 12-Cylinder,7.0,156,Manual,45282
+36,BMW M6 Convertible 2010,BMW,M6,2010,Germany,Convertible,534,6.0L 12-Cylinder,4.9,158,Automatic,108788
+37,BMW X3 SUV 2012,BMW,X3,2012,Germany,SUV,547,4.2L 12-Cylinder,6.4,143,Automatic,55989
+38,BMW Z4 Convertible 2012,BMW,Z4,2012,Germany,Convertible,521,5.5L 8-Cylinder,4.6,172,Automatic,65635
+39,Bentley Continental Supersports Conv. Convertible 2012,Bentley,Continental Supersports Conv.,2012,United Kingdom,Convertible,1109,2.0L 12-Cylinder,3.5,220,Manual,465048
+40,Bentley Arnage Sedan 2009,Bentley,Arnage,2009,United Kingdom,Sedan,752,4.2L 12-Cylinder,3.4,243,Dual-Clutch,346688
+41,Bentley Mulsanne Sedan 2011,Bentley,Mulsanne,2011,United Kingdom,Sedan,823,2.7L 8-Cylinder,2.8,230,Automatic,1273730
+42,Bentley Continental GT Coupe 2012,Bentley,Continental GT,2012,United Kingdom,Coupe,1187,3.6L 12-Cylinder,3.2,199,Automatic,1438278
+43,Bentley Continental GT Coupe 2007,Bentley,Continental GT,2007,United Kingdom,Coupe,602,2.0L 10-Cylinder,3.3,254,Manual,487277
+44,Bentley Continental Flying Spur Sedan 2007,Bentley,Continental Flying Spur,2007,United Kingdom,Sedan,570,5.4L 12-Cylinder,3.1,210,Manual,1204603
+45,Bugatti Veyron 16.4 Convertible 2009,Bugatti,Veyron 16.4,2009,France,Convertible,809,5.9L 8-Cylinder,2.5,260,Manual,2398538
+46,Bugatti Veyron 16.4 Coupe 2009,Bugatti,Veyron 16.4,2009,France,Coupe,637,4.1L 10-Cylinder,2.7,203,Dual-Clutch,1289250
+47,Buick Regal GS 2012,Buick,Regal GS,2012,USA,Other,212,4.7L 6-Cylinder,6.9,136,Automatic,35819
+48,Buick Rainier SUV 2007,Buick,Rainier,2007,USA,SUV,289,4.4L 6-Cylinder,7.1,118,Automatic,51016
+49,Buick Verano Sedan 2012,Buick,Verano,2012,USA,Sedan,151,2.2L 6-Cylinder,7.5,123,Manual,16116
+50,Buick Enclave SUV 2012,Buick,Enclave,2012,USA,SUV,301,5.9L 4-Cylinder,8.5,122,Automatic,47028
+51,Cadillac CTS-V Sedan 2012,Cadillac,CTS-V,2012,USA,Sedan,529,3.5L 8-Cylinder,6.6,177,Automatic,49722
+52,Cadillac SRX SUV 2012,Cadillac,SRX,2012,USA,SUV,427,5.7L 8-Cylinder,6.7,190,Automatic,95795
+53,Cadillac Escalade EXT Crew Cab 2007,Cadillac,Escalade EXT,2007,USA,Pickup Truck,397,6.1L 4-Cylinder,5.4,175,Manual,61473
+54,Chevrolet Silverado 1500 Hybrid Crew Cab 2012,Chevrolet,Silverado 1500 Hybrid,2012,USA,Pickup Truck,220,1.5L 6-Cylinder,10.4,126,Manual,29649
+55,Chevrolet Corvette Convertible 2012,Chevrolet,Corvette,2012,USA,Convertible,245,2.2L 4-Cylinder,9.0,130,Manual,42287
+56,Chevrolet Corvette ZR1 2012,Chevrolet,Corvette ZR1,2012,USA,Other,237,2.4L 6-Cylinder,6.2,145,Automatic,44579
+57,Chevrolet Corvette Ron Fellows Edition Z06 2007,Chevrolet,Corvette Ron Fellows Edition Z06,2007,USA,Other,229,1.5L 4-Cylinder,9.7,129,Automatic,26000
+58,Chevrolet Traverse SUV 2012,Chevrolet,Traverse,2012,USA,SUV,262,3.1L 8-Cylinder,7.3,119,Manual,40512
+59,Chevrolet Camaro Convertible 2012,Chevrolet,Camaro,2012,USA,Convertible,242,5.9L 4-Cylinder,10.4,149,Manual,38266
+60,Chevrolet HHR SS 2010,Chevrolet,HHR SS,2010,USA,Other,206,1.9L 6-Cylinder,8.6,131,Automatic,21851
+61,Chevrolet Impala Sedan 2007,Chevrolet,Impala,2007,USA,Sedan,228,3.2L 8-Cylinder,9.5,142,Automatic,39872
+62,Chevrolet Tahoe Hybrid SUV 2012,Chevrolet,Tahoe Hybrid,2012,USA,SUV,208,3.9L 8-Cylinder,6.2,142,Automatic,35693
+63,Chevrolet Sonic Sedan 2012,Chevrolet,Sonic,2012,USA,Sedan,315,3.5L 6-Cylinder,10.2,127,Manual,39574
+64,Chevrolet Express Cargo Van 2007,Chevrolet,Express Cargo,2007,USA,Van,319,3.8L 6-Cylinder,9.0,122,Manual,39572
+65,Chevrolet Avalanche Crew Cab 2012,Chevrolet,Avalanche,2012,USA,Pickup Truck,243,2.3L 6-Cylinder,9.1,150,Automatic,45371
+66,Chevrolet Cobalt SS 2010,Chevrolet,Cobalt SS,2010,USA,Other,313,4.0L 4-Cylinder,10.1,134,Manual,40514
+67,Chevrolet Malibu Hybrid Sedan 2010,Chevrolet,Malibu Hybrid,2010,USA,Sedan,217,3.5L 4-Cylinder,6.9,135,Manual,25401
+68,Chevrolet TrailBlazer SS 2009,Chevrolet,TrailBlazer SS,2009,USA,Other,270,2.8L 8-Cylinder,9.6,125,Automatic,31505
+69,Chevrolet Silverado 2500HD Regular Cab 2012,Chevrolet,Silverado 2500HD,2012,USA,Pickup Truck,245,2.5L 4-Cylinder,9.7,130,Manual,25120
+70,Chevrolet Silverado 1500 Classic Extended Cab 2007,Chevrolet,Silverado 1500 Classic,2007,USA,Pickup Truck,197,3.6L 8-Cylinder,6.2,145,Automatic,20600
+71,Chevrolet Express Van 2007,Chevrolet,Express,2007,USA,Van,209,4.5L 4-Cylinder,8.2,130,Automatic,44164
+72,Chevrolet Monte Carlo Coupe 2007,Chevrolet,Monte Carlo,2007,USA,Coupe,167,1.6L 4-Cylinder,7.9,126,Manual,41507
+73,Chevrolet Malibu Sedan 2007,Chevrolet,Malibu,2007,USA,Sedan,171,6.0L 6-Cylinder,6.6,144,Manual,30957
+74,Chevrolet Silverado 1500 Extended Cab 2012,Chevrolet,Silverado 1500,2012,USA,Pickup Truck,316,5.7L 6-Cylinder,7.9,150,Manual,52081
+75,Chevrolet Silverado 1500 Regular Cab 2012,Chevrolet,Silverado 1500,2012,USA,Pickup Truck,275,4.4L 6-Cylinder,9.4,132,Manual,35986
+76,Chrysler Aspen SUV 2009,Chrysler,Aspen,2009,USA,SUV,272,3.0L 8-Cylinder,9.2,130,Manual,24077
+77,Chrysler Sebring Convertible 2010,Chrysler,Sebring,2010,USA,Convertible,160,4.8L 4-Cylinder,6.7,139,Automatic,20534
+78,Chrysler Town and Country Minivan 2012,Chrysler,Town and Country,2012,USA,Minivan,266,1.7L 6-Cylinder,7.5,144,Manual,45712
+79,Chrysler 300 SRT-8 2010,Chrysler,300 SRT-8,2010,USA,Other,239,3.7L 6-Cylinder,8.6,116,Manual,41224
+80,Chrysler Crossfire Convertible 2008,Chrysler,Crossfire,2008,USA,Convertible,216,3.7L 6-Cylinder,7.8,141,Automatic,40689
+81,Chrysler PT Cruiser Convertible 2008,Chrysler,PT Cruiser,2008,USA,Convertible,251,4.9L 6-Cylinder,6.1,136,Manual,31913
+82,Daewoo Nubira Wagon 2002,Daewoo,Nubira,2002,South Korea,Wagon,106,1.8L 6-Cylinder,11.1,112,Manual,19195
+83,Dodge Caliber Wagon 2012,Dodge,Caliber,2012,USA,Wagon,174,3.2L 4-Cylinder,8.1,118,Manual,44404
+84,Dodge Caliber Wagon 2007,Dodge,Caliber,2007,USA,Wagon,256,5.0L 6-Cylinder,7.5,139,Manual,26710
+85,Dodge Caravan Minivan 1997,Dodge,Caravan,1997,USA,Minivan,224,6.2L 6-Cylinder,8.1,149,Automatic,24367
+86,Dodge Ram Pickup 3500 Crew Cab 2010,Dodge,Ram Pickup 3500,2010,USA,Pickup Truck,217,6.0L 4-Cylinder,9.5,117,Automatic,23496
+87,Dodge Ram Pickup 3500 Quad Cab 2009,Dodge,Ram Pickup 3500,2009,USA,Pickup Truck,374,3.7L 4-Cylinder,8.8,130,Automatic,20335
+88,Dodge Sprinter Cargo Van 2009,Dodge,Sprinter Cargo,2009,USA,Van,304,2.2L 8-Cylinder,8.1,131,Manual,33284
+89,Dodge Journey SUV 2012,Dodge,Journey,2012,USA,SUV,351,1.9L 4-Cylinder,9.5,125,Manual,26506
+90,Dodge Dakota Crew Cab 2010,Dodge,Dakota,2010,USA,Pickup Truck,239,5.9L 4-Cylinder,9.0,139,Manual,56735
+91,Dodge Dakota Club Cab 2007,Dodge,Dakota,2007,USA,Pickup Truck,179,4.7L 6-Cylinder,9.1,130,Automatic,57803
+92,Dodge Magnum Wagon 2008,Dodge,Magnum,2008,USA,Wagon,315,4.0L 6-Cylinder,9.6,117,Manual,35674
+93,Dodge Challenger SRT8 2011,Dodge,Challenger SRT8,2011,USA,Other,157,5.3L 4-Cylinder,8.9,115,Manual,32579
+94,Dodge Durango SUV 2012,Dodge,Durango,2012,USA,SUV,270,3.5L 8-Cylinder,8.9,144,Automatic,42736
+95,Dodge Durango SUV 2007,Dodge,Durango,2007,USA,SUV,326,3.6L 8-Cylinder,8.8,149,Manual,36700
+96,Dodge Charger Sedan 2012,Dodge,Charger,2012,USA,Sedan,208,5.6L 4-Cylinder,9.8,120,Manual,26561
+97,Dodge Charger SRT-8 2009,Dodge,Charger SRT-8,2009,USA,Other,258,1.5L 6-Cylinder,8.7,139,Manual,34672
+98,Eagle Talon Hatchback 1998,Eagle,Talon,1998,USA,Hatchback,113,2.7L 8-Cylinder,9.8,108,Automatic,16988
+99,FIAT 500 Abarth 2012,FIAT,500 Abarth,2012,Italy,Other,319,1.8L 6-Cylinder,7.2,115,Automatic,44839
+100,FIAT 500 Convertible 2012,FIAT,500,2012,Italy,Convertible,265,3.6L 4-Cylinder,9.4,145,Manual,34192
+101,Ferrari FF Coupe 2012,Ferrari,FF,2012,Italy,Coupe,595,4.6L 10-Cylinder,2.8,221,Manual,1414113
+102,Ferrari California Convertible 2012,Ferrari,California,2012,Italy,Convertible,984,3.1L 10-Cylinder,3.0,260,Manual,2406847
+103,Ferrari 458 Italia Convertible 2012,Ferrari,458 Italia,2012,Italy,Convertible,777,2.3L 8-Cylinder,2.9,205,Dual-Clutch,1466070
+104,Ferrari 458 Italia Coupe 2012,Ferrari,458 Italia,2012,Italy,Coupe,1048,4.9L 12-Cylinder,2.8,251,Manual,956574
+105,Fisker Karma Sedan 2012,Fisker,Karma,2012,USA,Sedan,394,3.1L 6-Cylinder,6.6,158,Automatic,58176
+106,Ford F-450 Super Duty Crew Cab 2012,Ford,F-450 Super Duty,2012,USA,Pickup Truck,163,4.1L 4-Cylinder,6.6,117,Automatic,54005
+107,Ford Mustang Convertible 2007,Ford,Mustang,2007,USA,Convertible,303,4.2L 6-Cylinder,9.4,121,Automatic,44457
+108,Ford Freestar Minivan 2007,Ford,Freestar,2007,USA,Minivan,282,5.9L 6-Cylinder,7.5,118,Manual,47866
+109,Ford Expedition EL SUV 2009,Ford,Expedition EL,2009,USA,SUV,189,2.1L 8-Cylinder,7.8,119,Automatic,23282
+110,Ford Edge SUV 2012,Ford,Edge,2012,USA,SUV,237,4.3L 8-Cylinder,10.5,122,Manual,24582
+111,Ford Ranger SuperCab 2011,Ford,Ranger,2011,USA,Pickup Truck,217,5.5L 6-Cylinder,7.7,143,Manual,53247
+112,Ford GT Coupe 2006,Ford,GT,2006,USA,Coupe,218,4.4L 6-Cylinder,8.8,121,Automatic,34632
+113,Ford F-150 Regular Cab 2012,Ford,F-150,2012,USA,Pickup Truck,329,2.2L 6-Cylinder,6.7,126,Automatic,24320
+114,Ford F-150 Regular Cab 2007,Ford,F-150,2007,USA,Pickup Truck,275,2.8L 6-Cylinder,8.1,117,Automatic,57916
+115,Ford Focus Sedan 2007,Ford,Focus,2007,USA,Sedan,319,5.2L 8-Cylinder,8.0,129,Manual,44167
+116,Ford E-Series Wagon Van 2012,Ford,E-Series  Van,2012,USA,Wagon,309,4.0L 4-Cylinder,10.2,142,Automatic,42342
+117,Ford Fiesta Sedan 2012,Ford,Fiesta,2012,USA,Sedan,208,5.2L 8-Cylinder,6.6,118,Automatic,43087
+118,GMC Terrain SUV 2012,GMC,Terrain,2012,USA,SUV,351,3.6L 6-Cylinder,10.1,143,Automatic,56303
+119,GMC Savana Van 2012,GMC,Savana,2012,USA,Van,339,3.5L 8-Cylinder,10.2,147,Manual,45378
+120,GMC Yukon Hybrid SUV 2012,GMC,Yukon Hybrid,2012,USA,SUV,170,1.8L 8-Cylinder,9.3,131,Automatic,47313
+121,GMC Acadia SUV 2012,GMC,Acadia,2012,USA,SUV,310,5.1L 4-Cylinder,10.5,132,Automatic,20359
+122,GMC Canyon Extended Cab 2012,GMC,Canyon,2012,USA,Pickup Truck,280,6.2L 6-Cylinder,8.9,132,Automatic,53010
+123,Geo Metro Convertible 1993,Geo,Metro,1993,USA,Convertible,152,2.9L 4-Cylinder,10.9,113,Automatic,10494
+124,HUMMER H3T Crew Cab 2010,HUMMER,H3T,2010,USA,Pickup Truck,379,4.6L 6-Cylinder,7.5,146,Manual,29539
+125,HUMMER H2 SUT Crew Cab 2009,HUMMER,H2 SUT,2009,USA,Pickup Truck,368,2.6L 4-Cylinder,6.2,120,Manual,55051
+126,Honda Odyssey Minivan 2012,Honda,Odyssey,2012,Japan,Minivan,357,3.4L 4-Cylinder,9.9,115,Manual,45488
+127,Honda Odyssey Minivan 2007,Honda,Odyssey,2007,Japan,Minivan,292,5.0L 4-Cylinder,8.8,146,Manual,42709
+128,Honda Accord Coupe 2012,Honda,Accord,2012,Japan,Coupe,208,5.6L 6-Cylinder,6.6,133,Manual,33996
+129,Honda Accord Sedan 2012,Honda,Accord,2012,Japan,Sedan,171,2.9L 4-Cylinder,10.4,130,Automatic,16945
+130,Hyundai Veloster Hatchback 2012,Hyundai,Veloster,2012,South Korea,Hatchback,281,5.9L 4-Cylinder,6.4,122,Manual,29369
+131,Hyundai Santa Fe SUV 2012,Hyundai,Santa Fe,2012,South Korea,SUV,287,5.4L 6-Cylinder,8.3,132,Manual,38127
+132,Hyundai Tucson SUV 2012,Hyundai,Tucson,2012,South Korea,SUV,222,5.8L 8-Cylinder,8.5,139,Automatic,48935
+133,Hyundai Veracruz SUV 2012,Hyundai,Veracruz,2012,South Korea,SUV,351,3.0L 8-Cylinder,9.9,132,Manual,27946
+134,Hyundai Sonata Hybrid Sedan 2012,Hyundai,Sonata Hybrid,2012,South Korea,Sedan,208,5.6L 6-Cylinder,6.0,134,Manual,42887
+135,Hyundai Elantra Sedan 2007,Hyundai,Elantra,2007,South Korea,Sedan,277,3.6L 6-Cylinder,7.6,150,Manual,31870
+136,Hyundai Accent Sedan 2012,Hyundai,Accent,2012,South Korea,Sedan,188,5.5L 6-Cylinder,7.1,139,Automatic,38855
+137,Hyundai Genesis Sedan 2012,Hyundai,Genesis,2012,South Korea,Sedan,151,6.1L 4-Cylinder,9.4,139,Manual,26426
+138,Hyundai Sonata Sedan 2012,Hyundai,Sonata,2012,South Korea,Sedan,266,5.6L 6-Cylinder,6.6,136,Automatic,17213
+139,Hyundai Elantra Touring Hatchback 2012,Hyundai,Elantra Touring,2012,South Korea,Hatchback,165,3.4L 4-Cylinder,10.1,115,Automatic,33234
+140,Hyundai Azera Sedan 2012,Hyundai,Azera,2012,South Korea,Sedan,159,4.4L 6-Cylinder,9.5,131,Manual,31384
+141,Infiniti G Coupe IPL 2012,Infiniti,G  IPL,2012,Japan,Coupe,291,6.0L 6-Cylinder,6.6,174,Manual,88065
+142,Infiniti QX56 SUV 2011,Infiniti,QX56,2011,Japan,SUV,547,6.2L 12-Cylinder,6.0,155,Manual,52705
+143,Isuzu Ascender SUV 2008,Isuzu,Ascender,2008,Japan,SUV,121,3.5L 6-Cylinder,12.9,120,Manual,26220
+144,Jaguar XK XKR 2012,Jaguar,XK XKR,2012,United Kingdom,Other,264,3.1L 6-Cylinder,5.3,143,Manual,51028
+145,Jeep Patriot SUV 2012,Jeep,Patriot,2012,USA,SUV,197,2.2L 8-Cylinder,8.4,126,Automatic,35003
+146,Jeep Wrangler SUV 2012,Jeep,Wrangler,2012,USA,SUV,257,2.5L 6-Cylinder,9.1,146,Automatic,59613
+147,Jeep Liberty SUV 2012,Jeep,Liberty,2012,USA,SUV,277,4.7L 4-Cylinder,9.0,144,Manual,35733
+148,Jeep Grand Cherokee SUV 2012,Jeep,Grand Cherokee,2012,USA,SUV,178,4.7L 6-Cylinder,10.3,134,Manual,47949
+149,Jeep Compass SUV 2012,Jeep,Compass,2012,USA,SUV,376,1.9L 6-Cylinder,6.9,139,Manual,38799
+150,Lamborghini Reventon Coupe 2008,Lamborghini,Reventon,2008,Italy,Coupe,1085,6.1L 12-Cylinder,3.4,227,Automatic,1685583
+151,Lamborghini Aventador Coupe 2012,Lamborghini,Aventador,2012,Italy,Coupe,905,5.0L 10-Cylinder,2.5,196,Dual-Clutch,1331254
+152,Lamborghini Gallardo LP 570-4 Superleggera 2012,Lamborghini,Gallardo LP 570-4 Superleggera,2012,Italy,Other,735,2.6L 12-Cylinder,2.8,214,Dual-Clutch,1657741
+153,Lamborghini Diablo Coupe 2001,Lamborghini,Diablo,2001,Italy,Coupe,1175,1.6L 10-Cylinder,3.4,270,Dual-Clutch,753693
+154,Land Rover Range Rover SUV 2012,Land Rover,Range Rover,2012,United Kingdom,SUV,287,5.8L 6-Cylinder,5.4,148,Automatic,123965
+155,Land Rover LR2 SUV 2012,Land Rover,LR2,2012,United Kingdom,SUV,482,3.9L 10-Cylinder,5.0,190,Manual,71021
+156,Lincoln Town Car Sedan 2011,Lincoln,Town Car,2011,USA,Sedan,334,5.0L 6-Cylinder,6.8,170,Manual,78681
+157,MINI Cooper Roadster Convertible 2012,MINI,Cooper Roadster,2012,United Kingdom,Convertible,169,5.5L 6-Cylinder,10.3,124,Automatic,31346
+158,Maybach Landaulet Convertible 2012,Maybach,Landaulet,2012,Germany,Convertible,1070,2.7L 8-Cylinder,2.6,240,Automatic,1714171
+159,Mazda Tribute SUV 2011,Mazda,Tribute,2011,Japan,SUV,276,5.3L 6-Cylinder,9.0,131,Manual,43155
+160,McLaren MP4-12C Coupe 2012,McLaren,MP4-12C,2012,United Kingdom,Coupe,610,3.0L 12-Cylinder,3.2,269,Dual-Clutch,1160720
+161,Mercedes-Benz 300-Class Convertible 1993,Mercedes-Benz,300-Class,1993,Germany,Convertible,363,4.5L 4-Cylinder,6.1,169,Manual,53285
+162,Mercedes-Benz C-Class Sedan 2012,Mercedes-Benz,C-Class,2012,Germany,Sedan,321,2.0L 4-Cylinder,6.9,159,Manual,50943
+163,Mercedes-Benz SL-Class Coupe 2009,Mercedes-Benz,SL-Class,2009,Germany,Coupe,525,4.2L 12-Cylinder,5.5,163,Manual,62781
+164,Mercedes-Benz E-Class Sedan 2012,Mercedes-Benz,E-Class,2012,Germany,Sedan,329,5.9L 6-Cylinder,6.1,171,Manual,99379
+165,Mercedes-Benz S-Class Sedan 2012,Mercedes-Benz,S-Class,2012,Germany,Sedan,266,5.5L 4-Cylinder,5.0,168,Automatic,93566
+166,Mercedes-Benz Sprinter Van 2012,Mercedes-Benz,Sprinter,2012,Germany,Van,458,1.7L 10-Cylinder,6.8,181,Manual,119364
+167,Mitsubishi Lancer Sedan 2012,Mitsubishi,Lancer,2012,Japan,Sedan,188,4.6L 8-Cylinder,10.3,144,Automatic,20002
+168,Nissan Leaf Hatchback 2012,Nissan,Leaf,2012,Japan,Hatchback,145,5.2L 4-Cylinder,9.5,130,Automatic,17657
+169,Nissan NV Passenger Van 2012,Nissan,NV Passenger,2012,Japan,Van,177,3.0L 4-Cylinder,6.9,128,Automatic,55320
+170,Nissan Juke Hatchback 2012,Nissan,Juke,2012,Japan,Hatchback,292,4.0L 4-Cylinder,7.2,124,Automatic,16092
+171,Nissan 240SX Coupe 1998,Nissan,240SX,1998,Japan,Coupe,168,3.1L 4-Cylinder,9.9,123,Automatic,37661
+172,Plymouth Neon Coupe 1999,Plymouth,Neon,1999,USA,Coupe,131,5.0L 8-Cylinder,9.7,101,Manual,9258
+173,Porsche Panamera Sedan 2012,Porsche,Panamera,2012,Germany,Sedan,308,3.9L 4-Cylinder,5.7,189,Manual,53330
+174,Ram C/V Cargo Van Minivan 2012,Ram,C/V Cargo Van,2012,USA,Minivan,275,3.6L 4-Cylinder,7.0,117,Manual,52019
+175,Rolls-Royce Phantom Drophead Coupe Convertible 2012,Rolls-Royce,Phantom Drophead Coupe,2012,United Kingdom,Convertible,562,1.9L 12-Cylinder,3.8,244,Dual-Clutch,2188995
+176,Rolls-Royce Ghost Sedan 2012,Rolls-Royce,Ghost,2012,United Kingdom,Sedan,954,2.1L 8-Cylinder,3.8,231,Dual-Clutch,488242
+177,Rolls-Royce Phantom Sedan 2012,Rolls-Royce,Phantom,2012,United Kingdom,Sedan,781,3.9L 10-Cylinder,3.6,238,Dual-Clutch,2479973
+178,Scion xD Hatchback 2012,Scion,xD,2012,Japan,Hatchback,154,3.5L 4-Cylinder,10.7,103,Manual,18919
+179,Spyker C8 Convertible 2009,Spyker,C8,2009,Netherlands,Convertible,923,4.9L 10-Cylinder,3.7,241,Manual,1601582
+180,Spyker C8 Coupe 2009,Spyker,C8,2009,Netherlands,Coupe,937,4.7L 10-Cylinder,3.5,237,Automatic,1490818
+181,Suzuki Aerio Sedan 2007,Suzuki,Aerio,2007,Japan,Sedan,98,1.9L 6-Cylinder,12.3,102,Automatic,10494
+182,Suzuki Kizashi Sedan 2012,Suzuki,Kizashi,2012,Japan,Sedan,106,4.6L 6-Cylinder,9.2,117,Automatic,18115
+183,Suzuki SX4 Hatchback 2012,Suzuki,SX4,2012,Japan,Hatchback,135,6.0L 8-Cylinder,12.8,113,Manual,19900
+184,Suzuki SX4 Sedan 2012,Suzuki,SX4,2012,Japan,Sedan,129,2.1L 6-Cylinder,9.4,116,Manual,14761
+185,Tesla Model S Sedan 2012,Tesla,Model S,2012,USA,Sedan,364,2.0L 6-Cylinder,5.4,175,Manual,59184
+186,Toyota Sequoia SUV 2012,Toyota,Sequoia,2012,Japan,SUV,306,4.3L 6-Cylinder,9.6,150,Automatic,33821
+187,Toyota Camry Sedan 2012,Toyota,Camry,2012,Japan,Sedan,147,3.1L 4-Cylinder,7.2,134,Manual,21911
+188,Toyota Corolla Sedan 2012,Toyota,Corolla,2012,Japan,Sedan,176,5.0L 4-Cylinder,9.0,119,Automatic,34557
+189,Toyota 4Runner SUV 2012,Toyota,4Runner,2012,Japan,SUV,183,3.0L 6-Cylinder,7.0,141,Manual,53765
+190,Volkswagen Golf Hatchback 2012,Volkswagen,Golf,2012,Germany,Hatchback,219,2.1L 8-Cylinder,7.5,120,Automatic,39645
+191,Volkswagen Golf Hatchback 1991,Volkswagen,Golf,1991,Germany,Hatchback,152,3.7L 6-Cylinder,6.4,143,Manual,38084
+192,Volkswagen Beetle Hatchback 2012,Volkswagen,Beetle,2012,Germany,Hatchback,246,3.1L 4-Cylinder,7.0,147,Automatic,24951
+193,Volvo C30 Hatchback 2012,Volvo,C30,2012,Sweden,Hatchback,212,1.6L 6-Cylinder,9.1,146,Manual,38223
+194,Volvo 240 Sedan 1993,Volvo,240,1993,Sweden,Sedan,293,5.1L 6-Cylinder,6.0,134,Automatic,17795
+195,Volvo XC90 SUV 2007,Volvo,XC90,2007,Sweden,SUV,234,2.2L 6-Cylinder,6.5,146,Manual,40503
+196,smart fortwo Convertible 2012,smart,fortwo,2012,Germany,Convertible,158,3.3L 4-Cylinder,11.0,111,Manual,12770
